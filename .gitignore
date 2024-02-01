@@ -1,0 +1,14 @@
+venv
+__pycache__/
+*.py[cod]
+
+db.sqlite3
+
+#ignore package-lock.json
+package-lock.json
+
+#ingore package.json
+package.json
+
+#ignore node_modules
+node_modules/
