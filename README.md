@@ -53,3 +53,5 @@ Please note that `(api_unsec | api_sec)` is a placeholder for the specific appli
 ## Disclaimer regarding the demonstration videos
 
 The demonstration videos showcasing the vulnerability exploits are not viewable in the PDF document because it does not support video embedding. They can, however, be viewed by clicking on the links below the respective "video". The videos are also available in the [videos](/analysis/videos/) folder of the project.
+
+Grade: 20
